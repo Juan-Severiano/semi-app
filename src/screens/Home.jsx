@@ -45,7 +45,9 @@ export default props => {
           }}>
             <Card cover={require('../../assets/4.png')} />
           </TouchableOpacity>
-          <TouchableOpacity>
+          <TouchableOpacity onPress={() => {
+            Linking.openURL('https://www.todamateria.com.br/formulas-de-matematica/')
+          }}>
             <Card cover={require('../../assets/5.png')} />
           </TouchableOpacity>
           <TouchableOpacity onPress={() => {
