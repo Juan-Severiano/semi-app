@@ -2,7 +2,7 @@ export default {
   spaece: [
     {
       id: 1,
-      name: 'SPAECE 3° ANO',
+      name: 'SPAECE 1° ANO',
       link: 'https://docs.google.com/forms/d/e/1FAIpQLSeHp5CGAdOOikKD3UhnkmPpuAdIHtRCS3qh2Bhg_FTueIEfxw/viewform'
     },
     {
